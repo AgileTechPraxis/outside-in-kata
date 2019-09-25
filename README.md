@@ -10,13 +10,19 @@ I would like to see my current portfolio
 So I can better plan my financial strategy
 
 *Portfolio scenario*
+
 We need to provide a class able to record the buy and sell operations of a customer and display the information as per the acceptance criteria. For simplicity, you can assume it should work for just one user at a time.
 
 *Portfolio criteria*
+
 Given I bought 1000 shares of "Old School Waterfall Software LTD" on 14/02/1990
+
 and I bought 400 shares of "Crafter Masters Limited" on 09/06/2016
+
  and I bought 700 shares of "XP Practitioners Incorporated" on 10/12/2018
+ 
  and I sold 500 shares of "Old School Waterfall Software LTD" on 11/12/2018
+ 
  and the current share value of "Old School Waterfall Software LTD" is $5.75
  and the current share value of "Crafter Masters Limited" is $17.25
  and the current share value of "XP Practitioners Incorporated" is $25.55
