@@ -1,9 +1,7 @@
+![ ](kata.png)
 ## Kata
 
 ### Stock portfolio
-
-{float: left, width: 5, wrap: true}
-![ ](kata.png)
 
 Implement the following user story using Outside-In TDD starting from an acceptance test.
 
