@@ -8,7 +8,9 @@ Implement the following user story using Outside-In TDD starting from an accepta
 **Portfolio User Story**
 
 As a customer of our stock exchange broker
+
 I would like to see my current portfolio
+
 So I can better plan my financial strategy
 
 *Portfolio scenario*
