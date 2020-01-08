@@ -17,7 +17,7 @@ So I can better plan my financial strategy
 
 We need to provide a class able to record the buy and sell operations of a customer and display the information as per the acceptance criteria. For simplicity, you can assume it should work for just one user at a time.
 
-*Print portfolio statement criteria*
+*Print portfolio criteria*
 
 Given I bought 1000 shares of "Old School Waterfall Software LTD" on 14/02/1990
 
