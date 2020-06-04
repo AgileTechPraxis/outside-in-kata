@@ -20,13 +20,13 @@ We need to provide a class able to record the buy and sell operations of a custo
 *Print portfolio criteria*
 
 ```gherkin
-GIVEN I bought 1000 shares of "Old School Waterfall Software LTD" on 14/02/1990
- AND I bought 400 shares of "Crafter Masters Limited" on 09/06/2016
- AND I bought 700 shares of "XP Practitioners Incorporated" on 10/12/2018
- AND I sold 500 shares of "Old School Waterfall Software LTD" on 11/12/2018
- AND the current share value of "Old School Waterfall Software LTD" is $5.75
- AND the current share value of "Crafter Masters Limited" is $17.25
- AND the current share value of "XP Practitioners Incorporated" is $25.55
+Given I bought 1000 shares of "Old School Waterfall Software LTD" on 14/02/1990
+ And I bought 400 shares of "Crafter Masters Limited" on 09/06/2016
+ And I bought 700 shares of "XP Practitioners Incorporated" on 10/12/2018
+ And I sold 500 shares of "Old School Waterfall Software LTD" on 11/12/2018
+ And the current share value of "Old School Waterfall Software LTD" is $5.75
+ And the current share value of "Crafter Masters Limited" is $17.25
+ And the current share value of "XP Practitioners Incorporated" is $25.55
 ```
 
 When I print my current portfolio
