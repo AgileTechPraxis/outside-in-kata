@@ -37,3 +37,14 @@ XP Practitioners Incorporated | 700 | $25.55 | $17,885.00 | bought 700 on 10/12/
 ```
 
 Sorted by first operation date ascending.
+
+The API for this kata is:
+
+```csharp
+public class PortfolioService {
+  public Buy(string shareName, int amount)
+  public Sell(string shareName, int amount)
+  public UpdateValue(string shareName, decimal currentValue)
+  public Print(string message)
+}
+```
