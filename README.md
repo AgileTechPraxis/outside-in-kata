@@ -42,9 +42,9 @@ The API for this kata is:
 
 ```csharp
 public class PortfolioService {
-  public Buy(string shareName, int amount)
-  public Sell(string shareName, int amount)
-  public UpdateValue(string shareName, decimal currentValue)
-  public Print(string message)
+  public Buy(string shareName, int amount);
+  public Sell(string shareName, int amount);
+  public UpdateValue(string shareName, decimal currentValue);
+  public Print(string message);
 }
 ```
