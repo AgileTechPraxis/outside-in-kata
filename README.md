@@ -44,6 +44,6 @@ The API for this kata is:
 public class PortfolioService {
   public Buy(string shareName, int amount);
   public Sell(string shareName, int amount); 
-  public Print(string message);
+  public Print();
 }
 ```
